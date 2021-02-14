@@ -1,0 +1,34 @@
+//*********************************************************************
+//*	Scavenger Hunt File: ScavengerLicense.txt
+//*
+//*	Author: FrayedString
+//*
+//*	Description: User guide for the Scavenger Hunt scripts.
+//*	
+//*
+//*
+//*	Scavenger Hunt includes the following files:
+//*		- ScavengerBasket.cs		- ScavengerCmd.cs
+//*		- ScavengerItemCounter.cs	- ScangerItems.cs
+//*		- ScavengerSignup.cs		- ScavengerSignupGump.cs
+//*    		- ScavengerREADME.txt           - ScavengerLicense.txt
+//*   		- ScavengerCHANGELOG.txt
+//*
+//*
+//*  I am making this code available free of charge.  However, I have several
+//*  expectations and requirements associated with the use or viewing of the enclosed code.
+//*
+//*  The first, is that you agree not to contact me in any way with the intent to flame or
+//*  harass me.
+//*
+//*  The second, is that you agree to contact me about this code for the sole purpose of 
+//*  improving said code; whether by offering a bug fix, performance enhancement, or feature
+//*  request.  Compliments will also be accepted. :P
+//*
+//*  You may modify this code for use on your own server in any way you please.  However
+//*  if you distribute your modified version you must make it explicitely clear that
+//*  your modified version is a derived work.
+//*
+//*  This license is subject to change with each release.
+//*
+//*********************************************************************

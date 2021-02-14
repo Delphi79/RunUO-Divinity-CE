@@ -1,0 +1,45 @@
+//*********************************************************************
+//*	Scavenger Hunt File: ScavengerCHANGELOG.txt
+//*
+//*	Author: FrayedString
+//*
+//*	Description: Change log for the Scavenger Hunt scripts.
+//*	
+//*
+//*
+//*	Scavenger Hunt includes the following files:
+//*		- ScavengerBasket.cs		- ScavengerCmd.cs
+//*		- ScavengerItemCounter.cs	- ScangerItems.cs
+//*		- ScavengerSignup.cs		- ScavengerSignupGump.cs
+//*    		- ScavengerREADME.txt           - ScavengerLicense.txt
+//*   		- ScavengerCHANGELOG.txt
+//*
+//* 3.2
+//* - Revised by ASayre, various performance improvements.
+//*
+//* 3.1
+//* - Improved ScavengerBasket targeting effeciency.
+//* - Serialized all necessary properties so the event can span server restarts (or crashes ^^)
+//*
+//* 3.0
+//* - Further code conversions for RunUO 2.0.  ArrayLists -> Generics.
+//* - New (more effecient) scoring and payout algorithm.
+//*
+//* 2.4
+//* - Added per item payout to the ScavengerSignup to further simplify the
+//*	process of changing the payout amounts.
+//*
+//* 2.3
+//* - Minor tweaks to update system for RunUO 2.0 RC1
+//*
+//* 2.2 
+//* - Added 1st, 2nd, and 3rd base pay properties to the ScavengerSignup to
+//*     simplify the process of changing the payout amounts.
+//*
+//* 2.1
+//* - Included directions for use in the readme
+//*
+//* 2.0
+//* - First "feature complete" release
+//*
+//*********************************************************************
